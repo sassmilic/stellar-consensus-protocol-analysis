@@ -17,3 +17,4 @@ References:
 * https://arxiv.org/pdf/1707.01873.pdf
 * https://arxiv.org/pdf/2002.08101.pdf
 * https://arxiv.org/pdf/2002.08101.pdf
+* https://arxiv.org/pdf/1904.09839.pdf
